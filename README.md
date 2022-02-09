@@ -9,7 +9,7 @@ The company wants to know:
 ## Table of Contents
 * [General Info](#general-information)
 * [Libraries Used](#technologies-used)
-* [Conclusions](
+* [Conclusions]
 
 ## General Information
 The company wants to know:
